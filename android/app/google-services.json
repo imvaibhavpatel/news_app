@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562804034500",
+    "project_id": "newsapp-4330d",
+    "storage_bucket": "newsapp-4330d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562804034500:android:bacc5a193dc203ef157291",
+        "android_client_info": {
+          "package_name": "com.vaibhavtec.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562804034500-fbpcqiisgsiq178t3431bh98i9v7v4fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJ7Xs-ekVTpFkL17Y1zQEaPoZV0GrTNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562804034500-b722v7io5mcennkl37kkfvt11k126a4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
